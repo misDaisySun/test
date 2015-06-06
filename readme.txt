@@ -1,3 +1,3 @@
 hello world!
-welcome git;
 I'm new student;
+I'm start study git
